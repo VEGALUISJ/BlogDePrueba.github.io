@@ -6,6 +6,13 @@ body{
     text-align: center;
     width: 60%;
     margin: auto;
+    background-color: black;
+}
+.TagLine{
+    background-color: chocolate;
+    height: 70px;
+    margin: 0px auto;
+    border: 2px black solid;
 }
 .CajaPrincipal{
     background-color: whitesmoke;
